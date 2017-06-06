@@ -53,7 +53,7 @@ if (\Idno\Core\Idno::site()->session()->isLoggedIn()) {
 				</a>
 			</td>
 			<td align="right">
-        		<a href="session/login" style="color: #000000">
+        		<a href="/session/login" style="color: #000000">
 	    		<i class="fa fa-sign-in"></i>
 	    		&nbsp;&nbsp;
 			</td>
